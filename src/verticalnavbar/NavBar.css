@@ -1,0 +1,10 @@
+.full-h {
+  min-height: 90vh;
+}
+
+.vertical-navbar {
+  border-right: 0.5px solid #9e9e9e !important;
+  float: left;
+  width: 117px;
+  padding-left: 16px;
+}
